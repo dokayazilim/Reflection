@@ -1,0 +1,17 @@
+C:\Users\basal\OneDrive\Desktop\c# dersler\ReflectionWinForm\ReflectionWinForm\obj\Debug\net7.0-windows\ReflectionWinForm.csproj.AssemblyReference.cache
+C:\Users\basal\OneDrive\Desktop\c# dersler\ReflectionWinForm\ReflectionWinForm\obj\Debug\net7.0-windows\ReflectionWinForm.Form1.resources
+C:\Users\basal\OneDrive\Desktop\c# dersler\ReflectionWinForm\ReflectionWinForm\obj\Debug\net7.0-windows\ReflectionWinForm.csproj.GenerateResource.cache
+C:\Users\basal\OneDrive\Desktop\c# dersler\ReflectionWinForm\ReflectionWinForm\obj\Debug\net7.0-windows\ReflectionWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basal\OneDrive\Desktop\c# dersler\ReflectionWinForm\ReflectionWinForm\obj\Debug\net7.0-windows\ReflectionWinForm.AssemblyInfoInputs.cache
+C:\Users\basal\OneDrive\Desktop\c# dersler\ReflectionWinForm\ReflectionWinForm\obj\Debug\net7.0-windows\ReflectionWinForm.AssemblyInfo.cs
+C:\Users\basal\OneDrive\Desktop\c# dersler\ReflectionWinForm\ReflectionWinForm\obj\Debug\net7.0-windows\ReflectionWinForm.csproj.CoreCompileInputs.cache
+C:\Users\basal\OneDrive\Desktop\c# dersler\ReflectionWinForm\ReflectionWinForm\bin\Debug\net7.0-windows\ReflectionWinForm.exe
+C:\Users\basal\OneDrive\Desktop\c# dersler\ReflectionWinForm\ReflectionWinForm\bin\Debug\net7.0-windows\ReflectionWinForm.deps.json
+C:\Users\basal\OneDrive\Desktop\c# dersler\ReflectionWinForm\ReflectionWinForm\bin\Debug\net7.0-windows\ReflectionWinForm.runtimeconfig.json
+C:\Users\basal\OneDrive\Desktop\c# dersler\ReflectionWinForm\ReflectionWinForm\bin\Debug\net7.0-windows\ReflectionWinForm.dll
+C:\Users\basal\OneDrive\Desktop\c# dersler\ReflectionWinForm\ReflectionWinForm\bin\Debug\net7.0-windows\ReflectionWinForm.pdb
+C:\Users\basal\OneDrive\Desktop\c# dersler\ReflectionWinForm\ReflectionWinForm\obj\Debug\net7.0-windows\ReflectionWinForm.dll
+C:\Users\basal\OneDrive\Desktop\c# dersler\ReflectionWinForm\ReflectionWinForm\obj\Debug\net7.0-windows\refint\ReflectionWinForm.dll
+C:\Users\basal\OneDrive\Desktop\c# dersler\ReflectionWinForm\ReflectionWinForm\obj\Debug\net7.0-windows\ReflectionWinForm.pdb
+C:\Users\basal\OneDrive\Desktop\c# dersler\ReflectionWinForm\ReflectionWinForm\obj\Debug\net7.0-windows\ReflectionWinForm.genruntimeconfig.cache
+C:\Users\basal\OneDrive\Desktop\c# dersler\ReflectionWinForm\ReflectionWinForm\obj\Debug\net7.0-windows\ref\ReflectionWinForm.dll
